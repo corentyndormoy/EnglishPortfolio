@@ -1,0 +1,66 @@
+.education-logo, .experience-logo {
+    width: 115px;
+    height: 50px;
+}
+
+.rank {
+    border: solid 2px black;
+	width: 200px;
+    height: 25px;
+}
+
+.rank-line {
+    display: inline-block;
+	background-color: #2c3e50;
+    height: 21px;
+}
+
+.rank-1 {
+    width: 10%;
+}
+
+.rank-2 {
+    width: 20%;
+}
+
+.rank-3 {
+    width: 30%;
+}
+
+.rank-4 {
+    width: 40%;
+}
+
+.rank-5 {
+    width: 50%;
+}
+
+.rank-6 {
+    width: 60%;
+}
+
+.rank-7 {
+    width: 70%;
+}
+
+.rank-8 {
+    width: 80%;
+}
+
+.rank-9 {
+    width: 90%;
+}
+
+.rank-10 {
+    width: 100%;
+}
+
+.hobbies-illustration {
+    width: 560px;
+    height: 315px;
+}
+
+.img-half-size {
+    width: 50%;
+    height: 50%;
+}
